@@ -1,0 +1,69 @@
+#container0 {
+    display: flow-root;
+    background-color: #c5e6dc;
+    height: 500px;
+    padding: 70px;
+}
+
+
+.niños {
+    float: left;
+    background-color: white;
+    width: 1/2px;
+    margin-left: 300px;
+    border-top: 50px;
+    ;
+}
+
+.talentoh {
+    float: right;
+    background-color: white;
+    width: 1/4px;
+    margin-right: 300px;
+    border-top: 50px;
+}
+
+table,
+    th,
+    td {
+        border: 1px solid cadetblue;
+        margin: auto;
+}
+
+
+#container1 { 
+        display: flex;
+        background-color: #c5e6dc;
+        height: 850px;
+        padding: 70px;
+        text-align: center;
+
+}
+
+.tabla1{
+    background-color: azure;
+    margin-left: 50px;
+}
+
+.tabla2{
+    background-color: aliceblue;
+    margin-left: 50px;
+}
+
+.tabla3{
+    background-color: seashell;
+    margin-left: 50px;
+}
+
+#container2 { 
+    background-color: #c5e6dc;
+    height: 870px;
+    padding: 70px;
+    text-align: center;
+}
+
+.tabla4{
+    background-color: rgb(147, 229, 147) ;
+    margin-left: 50px;
+    
+}
